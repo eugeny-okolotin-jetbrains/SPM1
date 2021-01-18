@@ -17,3 +17,7 @@ public class  SPM1 {
 public class AAAA{
     public init(){}
 }
+
+public class BBBB{
+    public init(){}
+}
