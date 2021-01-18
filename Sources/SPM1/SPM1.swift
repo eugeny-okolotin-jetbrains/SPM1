@@ -14,10 +14,7 @@ public class  SPM1 {
 
 
 
-public class AAAA{
+public class CCC{
     public init(){}
 }
 
-public class BBBB{
-    public init(){}
-}
