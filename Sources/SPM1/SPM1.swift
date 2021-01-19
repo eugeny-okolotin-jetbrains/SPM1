@@ -18,3 +18,7 @@ public class CCC{
     public init(){}
 }
 
+public class XXX{
+    public init(){}
+    public var a = 1
+}
